@@ -23,3 +23,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed */
 }
+
+#filler {
+    background: url(../img/projects-1.jpeg)center/cover no-repeat fixed;
+}
